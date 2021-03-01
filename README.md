@@ -1,5 +1,4 @@
 # Personal-Loan-Prediction-Using-Various-Models
-Finding the common features which mostly impact the decision to take personal loans
 
 * Analysed around 5K records from the dataset using python and jupyter
 * Performed elaborate data analysis to identify the influential features of loan borrowers
